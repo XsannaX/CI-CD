@@ -1,6 +1,7 @@
 # przykladowe testy w pliku test_example .py
 import pytest
 import utils
+import pylint
 
 
 @pytest.mark.parametrize("a, b, expected ", [(1, 2, 3), (2, 3, 5), (3, 4, 7), (4, 5, 9)])
