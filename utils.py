@@ -1,5 +1,7 @@
 # przykladowe funkcje utils .py
 """Comm"""
+
+
 def add(a: int, b: int) -> int:
     """Comm"""
     return a + b
